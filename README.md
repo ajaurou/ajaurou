@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ## 🌐 Socials
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 ## 💻 Additional Tech Stack
 <!--
 **ajaurou/ajaurou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
