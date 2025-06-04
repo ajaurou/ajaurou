@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-jaurou/)
 
 ## 💻 Additional Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 <!--
 **ajaurou/ajaurou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
