@@ -10,7 +10,7 @@
 
 
 ## 💻 Additional Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![dbt](https://img.shields.io/badge/dbt-1E1E2F?style=flat&logo=dbt)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![dbt](https://img.shields.io/badge/dbt-1E1E2F?style=flat&logo=dbt) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow)
 
 <!--
 **ajaurou/ajaurou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
