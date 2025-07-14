@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Anthony 👋
+👋 an Analytics and Business Intelligence engineer with 5+ years of experience turning data into actionable insights.
+🧠 I specialize in building robust data pipelines using dbt, Python, and SQL.
+⚙️ I work with modern data stacks like Databricks, AWS, and Airflow.
+📊 I collaborate closely with business teams to deliver clean, trusted datasets for decision-making.
+🚀 Always curious, always optimizing, always looking for opportunities to connect and collaborate — let’s build better data together!
 
 ## ⭐ Tableau Visualisations
 <a href="https://public.tableau.com/app/profile/anthony.jaurou2130/viz/PaidMarketingPerfomance/Homepage">
